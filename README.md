@@ -7,6 +7,9 @@ A [Hermes Agent](https://hermes-agent.nousresearch.com/) skill for writing music
 - **RA voice**: casual authority, present-tense immediacy, confessional + editorial, vivid granular detail
 - **Pitchfork voice**: conversational sharpness, pop-literate, political/cultural commentary woven into music analysis
 - **Anti-patterns**: 25+ banned AI music writing tropes ("sonic landscape", "genre-defying", "melting pot of influences")
+- **EM DASH BAN**: double-emphasis rule against em dashes, a prototypical AI voice marker
+- **Sentence rhythm AI tells**: banned patterns like uniform sentence length, overuse of present participles, triple-adjective lists
+- **Direct writing samples**: real excerpts from RA and Pitchfork editorial to study and internalize
 - **Phrasebook**: authentic turns of phrase for hooks, sonic description, cultural framing
 - **Structural patterns**: RA review, Pitchfork feature, staff pick formats with worked example
 - **Voice calibration**: how to adapt to custom publications from a writing sample
