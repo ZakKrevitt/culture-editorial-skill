@@ -12,7 +12,7 @@ metadata:
 
 # Culture Editorial
 
-Write music and culture editorial that sounds like it belongs in Resident Advisor (RA), Pitchfork, or a boutique music publication — not AI-generated content farm slop.
+Write music and culture editorial that sounds like it belongs in Resident Advisor (RA), Pitchfork, or a boutique music publication. Not AI-generated content farm slop.
 
 ## Trigger
 - Writing about music, albums, artists, festivals, club culture, scenes, mixes, or any cultural output
@@ -40,7 +40,7 @@ Write music and culture editorial that sounds like it belongs in Resident Adviso
 
 ### Pitchfork Voice
 - **Conversational but sharp.** "Is it just me or is this Album of the Year field padded out"
-- **Pop-literate and meme-aware.** References to TikTok, KEXP, Discogs, Grammy politics — deployed strategically, not desperately.
+- **Pop-literate and meme-aware.** References to TikTok, KEXP, Discogs, Grammy politics, deployed strategically, not desperately.
 - **Strong opinions, confidently stated.** "This is a two-horse race."
 - **Political/cultural commentary woven into music analysis.** Bad Bunny's album is discussed alongside ICE threats; Gaga's win is read as Academy politics.
 - **Playful list formats.** RIYL sections that mix concrete references with abstract moods: "RIYL: patience; panpsychism; dejection; bummer jams"
@@ -58,25 +58,25 @@ Write music and culture editorial that sounds like it belongs in Resident Adviso
 ## 2. Structural Patterns
 
 ### RA Review / Best-of Blurb (150–250 words)
-1. **Context hook** — scene, label, history, or personal frame (1 sentence)
-2. **The "what"** — what this record/release actually is, described concretely (2–3 sentences)
-3. **The "how"** — how it sounds, specific sonic details (2–3 sentences)
-4. **The "why it matters"** — cultural/scene significance or personal resonance (1–2 sentences)
-5. **Closer** — sharp final observation or forward-looking note (1 sentence)
+1. **Context hook**: scene, label, history, or personal frame (1 sentence)
+2. **The "what"**: what this record/release actually is, described concretely (2–3 sentences)
+3. **The "how"**: how it sounds, specific sonic details (2–3 sentences)
+4. **The "why it matters"**: cultural/scene significance or personal resonance (1–2 sentences)
+5. **Closer**: sharp final observation or forward-looking note (1 sentence)
 
 ### Pitchfork Review / Feature Section
-1. **Thesis in opening paragraph** — what you're arguing, stated plainly
-2. **Evidence paragraphs** — specific tracks, production details, career context
-3. **Counterpoint or tension** — "But..." / "That said..." / "The catch is..."
-4. **Cultural/political framing** — how this fits into broader moment (optional but characteristic)
-5. **Closer that lands the thesis** — not summary, but a final punch
+1. **Thesis in opening paragraph**: what you're arguing, stated plainly
+2. **Evidence paragraphs**: specific tracks, production details, career context
+3. **Counterpoint or tension**: "But..." / "That said..." / "The catch is..."
+4. **Cultural/political framing**: how this fits into broader moment (optional but characteristic)
+5. **Closer that lands the thesis**: not summary, but a final punch
 
 ### Staff Pick / Personal Essay (RA style)
-1. **Personal stake** — why this writer cares (1 sentence)
-2. **The discovery narrative** — how they found it (2 sentences)
-3. **The music** — concrete description (2–3 sentences)
-4. **The resonance** — why it stuck (1–2 sentences)
-5. **Forward look** — what they want next (1 sentence)
+1. **Personal stake**: why this writer cares (1 sentence)
+2. **The discovery narrative**: how they found it (2 sentences)
+3. **The music**: concrete description (2–3 sentences)
+4. **The resonance**: why it stuck (1–2 sentences)
+5. **Forward look**: what they want next (1 sentence)
 
 ---
 
@@ -87,12 +87,12 @@ Write music and culture editorial that sounds like it belongs in Resident Adviso
 - "To riff on one EP below, it's been a month of superabundance."
 - "I genuinely don't know how to feel about this one."
 - "There might not be a Glastonbury this year, but June is still flush with brilliant festivals."
-- "Is it just me or is this [thing] padded out—even more than usual—with [criticism]?"
+- "Is it just me or is this [thing] padded out, even more than usual, with [criticism]?"
 
 ### Sonic description
 - "fizzy synths, sharp snare rolls and syncopated kicks"
 - "billowing, aquatic pads and hushed percussion drift in and around like passing scenery"
-- "dark, impeccably sculpted techno—a powerful theatre of creepy-crawly synth lines"
+- "dark, impeccably sculpted techno, a powerful theatre of creepy-crawly synth lines"
 - "The form is intangible: ... It leaves you delightfully disoriented"
 - "house in its purest form and elemental best"
 - "reverb so thick it could fog up your rear-view mirror"
@@ -161,6 +161,25 @@ Do NOT use em dashes. This is a prototypical AI voice marker. Real music journal
 - Consecutive sentences using the same grammatical structure
 - Overuse of present participles ("Drawing on...", "Building on...", "Exploring...")
 - Lists of three adjectives separated by commas ("dark, intense, and powerful")
+
+### Semicolon + "not just / isn't just / aren't just" constructions
+This is the single most reliable AI slop marker in music writing. The pattern: deny a surface quality with a semicolon or dash, then assert a deeper, more impressive quality.
+- "aren't decorative atmosphere; they're the album's nervous system"
+- "isn't just a festival; it's a temporary community"
+- "not just geographic; it is social, economic, and musical"
+- "not merely a remix; it's a complete reimagining"
+- "doesn't just reference 90s acid; it embodies the era"
+Replace with: two separate sentences, or a direct statement without the rhetorical upgrade. Say what it IS, not what it ISN'T.
+
+### Generic metaphor upgrades
+AI loves to escalate metaphors into abstract nouns:
+- "nervous system" (for field recordings)
+- "heartbeat" (for rhythm)
+- "soul" (for emotional quality)
+- "DNA" (for influence or style similarity)
+- "alchemy" (for production)
+- "tapestry" / "mosaic" / "collage" (for albums with varied tracks)
+If you find yourself reaching for a body-part or chemistry metaphor, use the concrete detail instead.
 
 ---
 
@@ -232,11 +251,11 @@ These are real excerpts from Resident Advisor and Pitchfork editorial. Study the
 ## 6. Voice Calibration
 
 If the user provides a writing sample, analyze:
-1. **Sentence rhythm** — RA uses short declaratives mixed with longer flowing sentences. Pitchfork uses conversational run-ons with embedded clauses.
-2. **Vocabulary register** — RA: technical music terms + literary descriptors. Pitchfork: pop culture references + critical theory-lite + internet slang.
-3. **Paragraph structure** — RA: tight 3–4 sentence paragraphs. Pitchfork: longer blocks with internal variation.
-4. **How they handle the artist** — RA: respectful but not reverent. Pitchfork: can be openly skeptical or enthusiastic, never neutral.
-5. **Humor style** — RA: dry, understated, parenthetical. Pitchfork: overt, punchy, sometimes mean.
+1. **Sentence rhythm**: RA uses short declaratives mixed with longer flowing sentences. Pitchfork uses conversational run-ons with embedded clauses.
+2. **Vocabulary register**: RA: technical music terms + literary descriptors. Pitchfork: pop culture references + critical theory-lite + internet slang.
+3. **Paragraph structure**: RA: tight 3–4 sentence paragraphs. Pitchfork: longer blocks with internal variation.
+4. **How they handle the artist**: RA: respectful but not reverent. Pitchfork: can be openly skeptical or enthusiastic, never neutral.
+5. **Humor style**: RA: dry, understated, parenthetical. Pitchfork: overt, punchy, sometimes mean.
 
 ---
 
@@ -247,19 +266,20 @@ If the user provides a writing sample, analyze:
 **Draft (AI-sounding):**
 > Kira Luno's debut album, *Glasshouse*, is a captivating journey through ambient soundscapes and techno rhythms. The Berlin-based artist creates an immersive experience that pushes the boundaries of electronic music. With its unique blend of field recordings and pulsating beats, *Glasshouse* takes listeners on a sonic journey that is both ethereal and grounded. Standout tracks include "Morning Fog," "Concrete Garden," and the title track. The production is polished and professional, showcasing Luno's talent as a rising star in the electronic music scene. This highly anticipated release proves once again why ambient-techno continues to be a compelling genre for exploration.
 
-**Culture Editorial pass:**
-> Kira Luno recorded *Glasshouse* in a Kreuzberg flat during Berlin's greyest winter months, and you can hear the season pressing against the windows. The field recordings—tram bells, distant U-Bahn rumble, what sounds like a neighbor practicing saxophone at 2 AM—aren't decorative atmosphere; they're the album's nervous system, feeding into beats that move like someone trying to keep warm.
+**Culture Editorial pass (NO em dashes, NO semicolon constructions, NO "aren't just / it's really" pattern):**
+
+> Kira Luno recorded *Glasshouse* in a Kreuzberg flat during Berlin's greyest winter months, and you can hear the season pressing against the windows. Tram bells, distant U-Bahn rumble, what sounds like a neighbor practicing saxophone at 2 AM. Those field recordings do the actual work on this album. They feed directly into beats that move like someone trying to keep warm.
 >
 > The ambient passages tend toward the austere rather than the pretty, which is a relief. Too many records in this lane mistake "ethereal" for "interesting." Luno doesn't. "Morning Fog" is eight minutes of held breath and sub-bass, the kind of track that makes you aware of your own pulse. The title track closes the album with a single repeating piano figure that slowly drowns in reverb, like a memory you're not sure you trust.
 >
-> It's her debut, so the seams show—some transitions feel like hard cuts rather than unfoldings. But the best moments suggest an artist who trusts silence more than most. Released on the small but sharp [label name], this is exactly the kind of record that makes digging through Bandcamp at 1 AM feel worth it.
+> It's her debut, so the seams show. Some transitions feel like hard cuts rather than unfoldings. But the best moments suggest an artist who trusts silence more than most. Released on the small but sharp [label name], this is exactly the kind of record that makes digging through Bandcamp at 1 AM feel worth it.
 
 **What makes the first draft obviously AI-generated?**
 - "Captivating journey," "immersive experience," "pushes boundaries"
-- "Unique blend of" — false range construction
-- "Standout tracks include" — listicle filler
-- "Polished and professional" — PR speak
-- "Proves once again why" — generic positive conclusion
+- "Unique blend of": false range construction
+- "Standout tracks include": listicle filler
+- "Polished and professional": PR speak
+- "Proves once again why": generic positive conclusion
 - No specific detail about what anything actually sounds like
 - No cultural context or personal frame
 - Every sentence is the same length
@@ -279,16 +299,24 @@ If the user provides a writing sample, analyze:
 
 When writing or rewriting music/culture content:
 
-1. **Identify the publication voice** — RA (insider, dry, confessional) or Pitchfork (conversational, sharp, pop-literate) or hybrid
+1. **Identify the publication voice**: RA (insider, dry, confessional) or Pitchfork (conversational, sharp, pop-literate) or hybrid
 2. **Strip all AI music writing tropes** from the anti-patterns list
-3. **Add specific granular detail** — equipment, venues, sounds, textures, references
-4. **Inject cultural/scene context** — not as Wikipedia factoids but as lived texture
-5. **Vary sentence rhythm** — short punchy observations mixed with longer flowing descriptions
-6. **Have a critical opinion** — never neutral, never PR-conduit
-7. **Check for soul** — does it sound like a real person with real opinions wrote this?
-8. **Final pass** — read aloud. If it sounds like a press release, rewrite from sentence 1.
+3. **Add specific granular detail**: equipment, venues, sounds, textures, references
+4. **Inject cultural/scene context**: not as Wikipedia factoids but as lived texture
+5. **Vary sentence rhythm**: short punchy observations mixed with longer flowing descriptions
+6. **Have a critical opinion**: never neutral, never PR-conduit
+7. **Check for soul**: does it sound like a real person with real opinions wrote this?
+8. **Final pass**: read aloud. If it sounds like a press release, rewrite from sentence 1.
 
 ---
+
+## References
+
+- `references/corpus.md`: Full unabridged source excerpts from RA and Pitchfork editorial (May 2026). Use for deeper voice study and extracting new phrase patterns.
+
+## References
+
+- `references/corpus.md`: Full unabridged source excerpts from RA and Pitchfork editorial (May 2026). Use for deeper voice study and extracting new phrase patterns.
 
 ## Attribution
 
