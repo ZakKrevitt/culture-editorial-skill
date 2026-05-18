@@ -1,35 +1,35 @@
 ---
 name: culture-editorial
-description: "Write music/culture editorial in the voice of Resident Advisor, Pitchfork, and boutique music journalism."
+description: "Write music and culture editorial in the voice of insider dance journalism and sharp conversational criticism."
 version: 1.0
 author: Bak / Zak Krevitt
 metadata:
   hermes:
-    tags: [writing, music, journalism, culture, ra, pitchfork, editorial, review]
+    tags: [writing, music, journalism, culture, editorial, review]
     category: creative
     related_skills: [humanizer, songwriting-and-ai-music]
 ---
 
 # Culture Editorial
 
-Write music and culture editorial that sounds like it belongs in Resident Advisor (RA), Pitchfork, or a boutique music publication. Not AI-generated content farm slop.
+Write music and culture editorial that sounds like it belongs in a boutique music publication. Not AI-generated content farm slop.
 
 ## Trigger
 - Writing about music, albums, artists, festivals, club culture, scenes, mixes, or any cultural output
 - Reviews, previews, listicles, features, profiles, scene reports, staff picks
-- Any request where the user wants "RA style," "Pitchfork voice," "music journalism," or "culture writing"
+- Any request where the user wants "insider style," "conversational voice," "music journalism," or "culture writing"
 - Also apply to your own output when writing music/culture content for Zak
 
 ## When to load
 - When user asks for music writing in a specific publication's voice
 - When drafting anything about sound, scenes, or cultural objects for public consumption
-- When the user says "make this sound like RA" or "write it like Pitchfork"
+- When the user asks for a specific publication voice or style reference
 
 ---
 
 ## 1. Voice Principles
 
-### RA Voice
+### Insider Voice
 - **Casual authority.** Sound like you've been in the scene long enough to not be impressed by hype, but you still get excited when something genuinely moves you.
 - **Present-tense immediacy.** Events and releases are happening *now*, even if they're historical. Music description uses present tense: "This is house in its purest form."
 - **Confessional + editorial.** Mix first-person warmth with sharp critical judgment: "I genuinely don't know how to feel about this one."
@@ -38,13 +38,13 @@ Write music and culture editorial that sounds like it belongs in Resident Adviso
 - **Emotional honesty without sentimentality.** "A soundtrack for crying in your car, preferably on an empty highway, perhaps after a minor romantic disaster you'll laugh about in six months."
 - **Personality in asides.** Parenthetical jokes, italicized emphasis, self-aware references: "(looking at you, _The Tortured Poets Department_)."
 
-### Pitchfork Voice
+### Conversational Voice
 - **Conversational but sharp.** "Is it just me or is this Album of the Year field padded out"
 - **Pop-literate and meme-aware.** References to TikTok, KEXP, Discogs, Grammy politics, deployed strategically, not desperately.
 - **Strong opinions, confidently stated.** "This is a two-horse race."
 - **Political/cultural commentary woven into music analysis.** Bad Bunny's album is discussed alongside ICE threats; Gaga's win is read as Academy politics.
 - **Playful list formats.** RIYL sections that mix concrete references with abstract moods: "RIYL: patience; panpsychism; dejection; bummer jams"
-- **Self-aware about the publication's own conventions.** Acknowledges Grammy absurdities, Grammy voter behavior, Pitchfork's own history.
+- **Self-aware about the publication's own conventions.** Acknowledges Grammy absurdities, Grammy voter behavior, the publication's own history.
 
 ### Shared Cross-Pub Principles
 - **Mix high and low culture freely.** Classical references alongside meme references. Academic vocabulary next to slang.
@@ -57,21 +57,21 @@ Write music and culture editorial that sounds like it belongs in Resident Adviso
 
 ## 2. Structural Patterns
 
-### RA Review / Best-of Blurb (150–250 words)
+### Insider Review / Best-of Blurb (150–250 words)
 1. **Context hook**: scene, label, history, or personal frame (1 sentence)
 2. **The "what"**: what this record/release actually is, described concretely (2–3 sentences)
 3. **The "how"**: how it sounds, specific sonic details (2–3 sentences)
 4. **The "why it matters"**: cultural/scene significance or personal resonance (1–2 sentences)
 5. **Closer**: sharp final observation or forward-looking note (1 sentence)
 
-### Pitchfork Review / Feature Section
+### Conversational Review / Feature Section
 1. **Thesis in opening paragraph**: what you're arguing, stated plainly
 2. **Evidence paragraphs**: specific tracks, production details, career context
 3. **Counterpoint or tension**: "But..." / "That said..." / "The catch is..."
 4. **Cultural/political framing**: how this fits into broader moment (optional but characteristic)
 5. **Closer that lands the thesis**: not summary, but a final punch
 
-### Staff Pick / Personal Essay (RA style)
+### Staff Pick / Personal Essay (Insider style)
 1. **Personal stake**: why this writer cares (1 sentence)
 2. **The discovery narrative**: how they found it (2 sentences)
 3. **The music**: concrete description (2–3 sentences)
@@ -80,7 +80,7 @@ Write music and culture editorial that sounds like it belongs in Resident Adviso
 
 ---
 
-## 3. Phrasebook — RA & Pitchfork Turns of Phrase
+## 3. Phrasebook — Insider & Conversational Turns of Phrase
 
 ### Opening hooks
 - "Enter spring, open floodgates."
@@ -109,7 +109,7 @@ Write music and culture editorial that sounds like it belongs in Resident Adviso
 - "My next quest is trying to catch her performing this quietly sublime gem live."
 - "Respectfully, if you don't have this on your USB, I'm not coming to your set."
 
-### Pitchfork-specific
+### Conversational-specific
 - "The [field] appears tight."
 - "It's the kind of 'even Grandma's getting into it' pick Grammy voters love to laud."
 - "[Album] doesn't exactly warrant a Lifetime Achievement nod."
@@ -185,9 +185,9 @@ If you find yourself reaching for a body-part or chemistry metaphor, use the con
 
 ## 5. Direct Writing Samples — Study These
 
-These are real excerpts from Resident Advisor and Pitchfork editorial. Study the sentence rhythm, vocabulary, and how criticism is delivered. Do not copy; internalize the patterns.
+These are real excerpts from music journalism editorial. Study the sentence rhythm, vocabulary, and how criticism is delivered. Do not copy; internalize patterns.
 
-### Resident Advisor: Best Music 2026: April (ra.co/features/4490)
+### Sample 1: Best Music Roundup (April 2026)
 
 > Enter spring, open floodgates. As the mercury climbs, the pace of new music has ramped up dramatically, with more than a few eyebrow-raisers along the way.
 >
@@ -207,7 +207,7 @@ These are real excerpts from Resident Advisor and Pitchfork editorial. Study the
 
 > Pioneers such as DJ Chuckie and DJ Moortje, alongside rising standouts like Styn and T.NO, have helped propel bubbling from a hyper-local scene to a global club phenomenon. The sub-genre, a mutation of sped-up dancehall, is now a go-to weapon for DJs looking to ignite dance floors. Telling the story of DJ Shaun-D's legendary influence on the style, this album is pure fuel: fizzy synths, sharp snare rolls and syncopated kicks that move you before you notice. Respectfully, if you don't have this on your USB, I'm not coming to your set.
 
-### Resident Advisor: Top Ten Festivals 2026: June (ra.co/features/4484)
+### Sample 2: Festival Preview (June 2026)
 
 > There might not be a Glastonbury this year, but June is still flush with brilliant festivals. From Lighthouse's sun-soaked Adriatic escapism to Detroit's homegrown Tec-Troit and The White Hotel's anniversary celebration in Blackpool, here are ten festivals worth your attention next month. We're so ready.
 
@@ -217,7 +217,7 @@ These are real excerpts from Resident Advisor and Pitchfork editorial. Study the
 
 > Drag wrestling, puppet theatre, comedy shows, this isn't your average festival. Combining avant-garde curation with nature, Dripping attracts a wide range of multidisciplinary creatives thanks to its wholesome mentality. The focus is also broader than just dancing or raging. Workshops, on-site AA meetings, lake swims and free drug testing are among the many activities that also appeal to wellness-focused crowds. This is one of those rare communal events that encourages you to exist just as you are.
 
-### Pitchfork: The Best Music of 2026 So Far
+### Sample 4: Mid-Year Best-Of Roundup
 
 > We are always listening to what's next, but we're only human, and these are the records that are stuck on repeat. We're highlighting some of 2026's most outstanding albums to date by rounding up the ones that have earned high scores and Best New Music designations with a quick list of RIYLs (that's Recommended If You Like) and links to our coverage.
 
@@ -230,7 +230,7 @@ These are real excerpts from Resident Advisor and Pitchfork editorial. Study the
 > Wendy Eisenberg: _Wendy Eisenberg_
 > **RIYL:** Cattails; fireflies; lucid dreaming; Judee Sill's string arrangements; Massachusetts Route 2; secure attachment; polyrhythms; jazz so free it becomes country
 
-### Pitchfork: Grammys 2026 Predictions
+### Sample 5: Award Show Predictions
 
 > Can Kendrick repeat? Will a K-pop star finally win Record of the Year? And who snags the inaugural Best Album Cover?
 
@@ -251,17 +251,17 @@ These are real excerpts from Resident Advisor and Pitchfork editorial. Study the
 ## 6. Voice Calibration
 
 If the user provides a writing sample, analyze:
-1. **Sentence rhythm**: RA uses short declaratives mixed with longer flowing sentences. Pitchfork uses conversational run-ons with embedded clauses.
-2. **Vocabulary register**: RA: technical music terms + literary descriptors. Pitchfork: pop culture references + critical theory-lite + internet slang.
-3. **Paragraph structure**: RA: tight 3–4 sentence paragraphs. Pitchfork: longer blocks with internal variation.
-4. **How they handle the artist**: RA: respectful but not reverent. Pitchfork: can be openly skeptical or enthusiastic, never neutral.
-5. **Humor style**: RA: dry, understated, parenthetical. Pitchfork: overt, punchy, sometimes mean.
+1. **Sentence rhythm**: Insider style uses short declaratives mixed with longer flowing sentences. Conversational style uses run-ons with embedded clauses.
+2. **Vocabulary register**: Insider style: technical music terms + literary descriptors. Conversational style: pop culture references + critical theory-lite + internet slang.
+3. **Paragraph structure**: Insider style: tight 3–4 sentence paragraphs. Conversational style: longer blocks with internal variation.
+4. **How they handle the artist**: Insider style: respectful but not reverent. Conversational style: openly skeptical or enthusiastic, never neutral.
+5. **Humor style**: Insider style: dry, understated, parenthetical. Conversational style: overt, punchy, sometimes mean.
 
 ---
 
 ## 6. Worked Example
 
-**Prompt:** Write a 200-word review of a fictional debut album called *Glasshouse* by an artist named Kira Luno, in RA style. It's ambient-techno with field recordings, released on a small Berlin label.
+**Prompt:** Write a 200-word review of a fictional debut album called *Glasshouse* by an artist named Kira Luno, in insider style. It's ambient-techno with field recordings, released on a small Berlin label.
 
 **Draft (AI-sounding):**
 > Kira Luno's debut album, *Glasshouse*, is a captivating journey through ambient soundscapes and techno rhythms. The Berlin-based artist creates an immersive experience that pushes the boundaries of electronic music. With its unique blend of field recordings and pulsating beats, *Glasshouse* takes listeners on a sonic journey that is both ethereal and grounded. Standout tracks include "Morning Fog," "Concrete Garden," and the title track. The production is polished and professional, showcasing Luno's talent as a rising star in the electronic music scene. This highly anticipated release proves once again why ambient-techno continues to be a compelling genre for exploration.
@@ -299,25 +299,31 @@ If the user provides a writing sample, analyze:
 
 When writing or rewriting music/culture content:
 
-1. **Identify the publication voice**: RA (insider, dry, confessional) or Pitchfork (conversational, sharp, pop-literate) or hybrid
+1. **Identify the publication voice**: Insider (dry, confessional, granular) or Conversational (sharp, pop-literate) or hybrid
 2. **Strip all AI music writing tropes** from the anti-patterns list
 3. **Add specific granular detail**: equipment, venues, sounds, textures, references
 4. **Inject cultural/scene context**: not as Wikipedia factoids but as lived texture
 5. **Vary sentence rhythm**: short punchy observations mixed with longer flowing descriptions
 6. **Have a critical opinion**: never neutral, never PR-conduit
 7. **Check for soul**: does it sound like a real person with real opinions wrote this?
-8. **Final pass**: read aloud. If it sounds like a press release, rewrite from sentence 1.
+8. **Self-check audit (MANDATORY before presenting output)**: Scan your own draft for every item in the Anti-Patterns list. Specifically check:
+   - Zero em dashes (search for `—` and `--`)
+   - Zero "not just / isn't just / aren't just / not merely" constructions
+   - Zero semicolon rhetorical upgrades (`X; Y` where Y claims deeper truth)
+   - Zero generic metaphors (nervous system, heartbeat, soul, DNA, alchemy, tapestry)
+   - No present-participle clusters ("Drawing on..., Building on..., Exploring...")
+   - No triple-adjective lists ("dark, intense, and powerful")
+   - No three consecutive sentences starting with "The" or "It"
+   - Verify every claim attaches to a concrete detail (venue name, equipment, specific sound)
+   This audit applies to worked examples, templates, and all generated output. A "good example" that violates the rules is worse than no example at all.
+9. **Final pass**: read aloud. If it sounds like a press release, rewrite from sentence 1.
 
 ---
 
 ## References
 
-- `references/corpus.md`: Full unabridged source excerpts from RA and Pitchfork editorial (May 2026). Use for deeper voice study and extracting new phrase patterns.
-
-## References
-
-- `references/corpus.md`: Full unabridged source excerpts from RA and Pitchfork editorial (May 2026). Use for deeper voice study and extracting new phrase patterns.
+- `references/corpus.md`: Full source excerpts from music journalism editorial. Use for deeper voice study. **WARNING:** Raw source contains em dashes, semicolons, and other constructions the skill explicitly bans. The skill voice is MORE RESTRICTIVE than its sources.
 
 ## Attribution
 
-Derived from analysis of live Resident Advisor (ra.co) and Pitchfork (pitchfork.com) editorial. Corpus collected May 2026 via text extraction from best-of lists, festival previews, staff picks, and Grammy prediction features. Voice patterns synthesized from editorial by Gabriel Szatan, Katie Thomas, Bella Aquilina, Walden Green, Hattie Lindert, and others.
+Derived from analysis of live music journalism editorial. Corpus collected May 2026. Voice patterns synthesized from professional editorial writing.
