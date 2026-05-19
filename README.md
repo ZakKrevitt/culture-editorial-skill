@@ -38,7 +38,7 @@ Then reference it in your agent prompt or load it when writing about:
 > Kira Luno's debut album, *Glasshouse*, is a captivating journey through ambient soundscapes and techno rhythms. The Berlin-based artist creates an immersive experience that pushes the boundaries of electronic music.
 
 **After (insider voice):**
-> Kira Luno recorded *Glasshouse* in a Kreuzberg flat during Berlin's greyest winter months, and you can hear the season pressing against the windows. Tram bells, distant U-Bahn rumble, what sounds like a neighbor practicing saxophone at 2 AM. Those field recordings do the actual work on this album. They feed directly into beats that move like someone trying to keep warm.
+> Kira Luno recorded *Glasshouse* in a Kreuzberg flat during Berlin's greyest winter months, and you can hear the season pressing against the windows: Ttram bells, distant U-Bahn rumble, what sounds like a neighbor practicing saxophone at 2 AM. Field recordings do the actual work on this album, feeding directly into beats that move like someone trying to keep warm.
 
 See the full worked example in [SKILL.md](SKILL.md).
 
